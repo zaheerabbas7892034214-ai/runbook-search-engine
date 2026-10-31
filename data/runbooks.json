@@ -1,0 +1,18 @@
+
+[
+  {
+    "id": 1,
+    "title": "Database Connection Error",
+    "resolution": "Check database credentials"
+  },
+  {
+    "id": 2,
+    "title": "Application Memory Error",
+    "resolution": "Increase JVM heap size"
+  },
+  {
+    "id": 3,
+    "title": "API Timeout",
+    "resolution": "Check network connectivity"
+  }
+]
